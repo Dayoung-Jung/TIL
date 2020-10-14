@@ -1,1 +1,0 @@
-2020's Study to-do list
