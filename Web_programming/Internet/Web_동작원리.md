@@ -18,7 +18,7 @@
 
 그리고 이 문장을 그림으로 표현하면 다음과 같다.
 
-[##_Image|kage@bB27VM/btqInsHdO5P/p1x9GeFMhOc6b48Izwhdkk/img.png|alignCenter|data-filename="s_note_image_01.png" data-origin-width="800" data-origin-height="591" data-ke-mobilestyle="widthContent"|||_##]
+
 
 **웹 동작 순서**
 
@@ -62,7 +62,6 @@
 
 최근에 웹 클라이언트와 웹 브라우저를 동일하게 보는 추세이다.
 
-[##_Image|kage@HoLUf/btqIkuFfs6Y/2SK3MninG0iI7DKofQGqWK/img.png|alignCenter|data-filename="330px-Browser_Market_Map_June_2015.svg.png" data-origin-width="330" data-origin-height="169" data-ke-mobilestyle="widthContent"|나라별 가장 흔히 쓰이는 웹 브라우저 (2015)||_##]
 
 웹 브라우저의 예시로 파이어폭스, 사파리, 구글 크롬, 인터넷 익스플로러, 오페라 등이 있다.
 
