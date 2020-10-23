@@ -1,15 +1,13 @@
 #### **목차**
 
----
+
 
 -   웹 서버 vs WAS
 -   WAS를 사용하는 이유
 
+---
 #### **웹 서버 vs WAS**
 
----
-
-[##_Image|kage@b9rZkL/btqIvX0p1wJ/9SK7nAFNe9IiAAskLHAC71/img.png|alignCenter|data-filename="static-vs-dynamic.png" data-origin-width="3233" data-origin-height="1262" data-ke-mobilestyle="widthContent"|웹 서버와 WAS||_##]
 
 **1) 웹 서버**
 
@@ -31,11 +29,10 @@ WAS는 웹 클라이언트의 요청에 따라 콘텐츠를 제공하는 서버�
 
 예를 들어, Tomcat, Jeus 등이 있다.
 
+---
 #### **WAS를 사용하는 이유**
 
----
 
-[##_Image|kage@b24DDg/btqIhY1cX6T/ZmegJ1LOF3lxNprONY5se0/img.png|alignCenter|data-filename="2771214B56E9F4FE05.png" data-origin-width="900" data-origin-height="254" data-ke-mobilestyle="widthContent"|||_##]
 
 웹 서버와 WAS 모두 서버이기 때문에, **굳이 두 개의 서버가 필요한가? 굳이 두 개로 분리해야하나?** 라는 생각이 들수도 있다.
 
@@ -45,7 +42,6 @@ WAS는 웹 클라이언트의 요청에 따라 콘텐츠를 제공하는 서버�
 
 그 이유는 다음과 같다.
 
-[##_Image|kage@bEFUr7/btqIh0kqFId/FdxNIbasfXUTiMBhF0m7fK/img.png|alignCenter|data-filename="blob" data-origin-width="367" data-origin-height="258" data-ke-mobilestyle="widthContent"|웹 클라이언트 - 웹 서버 - WAS 순서||_##]
 
 **첫째, 장애 극복 기능 목적**
 
